@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528972633538",
+    "project_id": "spares-cbf6b",
+    "storage_bucket": "spares-cbf6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528972633538:android:4d455239c0a16dece6725b",
+        "android_client_info": {
+          "package_name": "com.example.spares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lRJZ4KoTQ0lamhw1ZVjRuAyoF3l1LXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
